@@ -12,7 +12,8 @@
 - 快速数据统计：总笔记数、已完成数量、今日记录数量
 - 快捷心情记录入口，一键记录当下情绪
 - 最近笔记预览，快速查看历史记录内容
- 
+ <img width="481" height="1027" alt="6808c537081acf1ee61235be6bcad91f" src="https://github.com/user-attachments/assets/7dc218c4-d9b4-4d27-89e3-47b19ad4aa60" />
+
 📓 新建笔记
  
 - 支持自定义笔记标题、正文内容，适配多种记录场景
