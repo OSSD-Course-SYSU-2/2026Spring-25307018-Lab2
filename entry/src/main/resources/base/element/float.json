@@ -1,0 +1,92 @@
+{
+  "float": [
+    {
+      "name": "padding_small",
+      "value": "8vp"
+    },
+    {
+      "name": "padding_medium",
+      "value": "16vp"
+    },
+    {
+      "name": "padding_large",
+      "value": "24vp"
+    },
+    {
+      "name": "margin_small",
+      "value": "8vp"
+    },
+    {
+      "name": "margin_medium",
+      "value": "16vp"
+    },
+    {
+      "name": "margin_large",
+      "value": "24vp"
+    },
+    {
+      "name": "border_radius_small",
+      "value": "4vp"
+    },
+    {
+      "name": "border_radius_medium",
+      "value": "8vp"
+    },
+    {
+      "name": "border_radius_large",
+      "value": "16vp"
+    },
+    {
+      "name": "border_radius_xlarge",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_size_small",
+      "value": "20vp"
+    },
+    {
+      "name": "icon_size_medium",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_size_large",
+      "value": "32vp"
+    },
+    {
+      "name": "font_size_small",
+      "value": "12fp"
+    },
+    {
+      "name": "font_size_medium",
+      "value": "14fp"
+    },
+    {
+      "name": "font_size_large",
+      "value": "16fp"
+    },
+    {
+      "name": "font_size_xlarge",
+      "value": "20fp"
+    },
+    {
+      "name": "font_size_xxlarge",
+      "value": "24fp"
+    },
+    {
+      "name": "button_height",
+      "value": "48vp"
+    },
+    {
+      "name": "input_height",
+      "value": "56vp"
+    },
+    {
+      "name": "card_elevation",
+      "value": "2vp"
+    },
+    {
+      "name": "appbar_elevation",
+      "value": "4vp"
+    }
+  ]
+}

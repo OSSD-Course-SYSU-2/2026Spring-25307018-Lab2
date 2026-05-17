@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/MemoList",
+    "pages/MemoDetail",
+    "pages/StatsPage",
+    "pages/Statistics",
+    "pages/CreateMemo",
+    "pages/AIPage",
+    "pages/BlindBoxCollection",
+    "pages/PlanetBuilder",
+    "pages/TreasureHuntPage"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "趣味备忘录"
+    },
+    {
+      "name": "app_description",
+      "value": "一个有趣的备忘录应用，记录生活点滴"
+    },
+    {
+      "name": "module_desc",
+      "value": "趣味备忘录主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "趣味备忘录主能力"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "趣味备忘录"
+    },
+    {
+      "name": "memo_list_title",
+      "value": "我的备忘录"
+    },
+    {
+      "name": "add_memo",
+      "value": "添加备忘录"
+    },
+    {
+      "name": "edit_memo",
+      "value": "编辑备忘录"
+    },
+    {
+      "name": "delete_memo",
+      "value": "删除"
+    },
+    {
+      "name": "complete_memo",
+      "value": "完成"
+    },
+    {
+      "name": "incomplete_memo",
+      "value": "未完成"
+    },
+    {
+      "name": "memo_title_hint",
+      "value": "请输入标题"
+    },
+    {
+      "name": "memo_content_hint",
+      "value": "请输入内容"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "stats_title",
+      "value": "统计"
+    },
+    {
+      "name": "total_memos",
+      "value": "总备忘录数"
+    },
+    {
+      "name": "completed_memos",
+      "value": "已完成"
+    },
+    {
+      "name": "pending_memos",
+      "value": "待完成"
+    },
+    {
+      "name": "daily_encouragement",
+      "value": "每日鼓励语"
+    },
+    {
+      "name": "mood_tracker",
+      "value": "心情记录"
+    },
+    {
+      "name": "achievements",
+      "value": "成就勋章"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索备忘录..."
+    },
+    {
+      "name": "no_memos",
+      "value": "暂无备忘录，点击添加开始记录"
+    },
+    {
+      "name": "today",
+      "value": "今天"
+    },
+    {
+      "name": "yesterday",
+      "value": "昨天"
+    },
+    {
+      "name": "this_week",
+      "value": "本周"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "filter_by_status",
+      "value": "按状态筛选"
+    },
+    {
+      "name": "distributed_datasync_reason",
+      "value": "用于在设备间同步备忘录数据"
+    },
+    {
+      "name": "filter_by_date",
+      "value": "按日期筛选"
+    }
+  ]
+}
