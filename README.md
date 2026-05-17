@@ -55,14 +55,23 @@
 📂 项目目录结构
  
 ├── entry                 # 应用主业务模块
+
 │   └── src/main/ets      # 核心源码目录
+
 │       ├── pages         # 所有功能页面
+
 │       ├── utils         # 工具类、业务管理器
+
 │       ├── model         # 数据实体、接口类型定义
+
 │       └── common        # 公共常量、通用工具方法
+
 ├── hvigor                # 项目编译构建配置
+
 ├── oh_modules            # 项目依赖依赖包
+
 ├── build-profile.json5   # 工程构建配置文件
+
 └── README.md             # 项目说明文档
  
  
