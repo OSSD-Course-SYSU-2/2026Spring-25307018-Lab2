@@ -24,7 +24,7 @@
 - 时间胶囊专属功能，支持笔记定时封存
 - 自定义标签分类管理，可自主添加标签，实现笔记精细化整理
 
-<img width="483" height="1032" alt="image" src="https://github.com/user-attachments/assets/356c5dc2-caa8-4d26-a6f9-d1a2f03e8400" /><img width="474" height="1025" alt="752e965b23fc8a9959cfaea8dd7a5032" src="https://github.com/user-attachments/assets/ac8aba18-cd5d-4a11-9b1b-5d8ce352be8a" />
+<img width="483" height="1032" alt="image" src="https://github.com/user-attachments/assets/356c5dc2-caa8-4d26-a6f9-d1a2f03e8400" />
 
 
  
