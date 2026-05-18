@@ -13,10 +13,7 @@
 - 快捷心情记录入口，一键记录当下情绪
 - 最近笔记预览，快速查看历史记录内容
 
- <div align="center">
-  < img width="450" src="https://github.com/user-attachments/assets/7dc218c4-d9b4-4d27-89e3-47b19d4aa460">
-  < img width="450" src="https://github.com/user-attachments/assets/cc0046d7-34d2-4a25-88cb-8d492513e513">
-</div>
+ <div align="center">< img width="450" src="https://github.com/user-attachments/assets/7dc218c4-d9b4-4d27-89e3-47b19d4aa460"> < img width="450" src="https://github.com/user-attachments/assets/cc0046d7-34d2-4a25-88cb-8d492513e513"></div>
 
 📓 新建笔记
  
