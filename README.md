@@ -25,8 +25,6 @@
 - 自定义标签分类管理，可自主添加标签，实现笔记精细化整理
 
 <img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/356c5dc2-caa8-4d26-a6f9-d1a2f03e8400" /><img width="" height="342" alt="image" src="https://github.com/user-attachments/assets/ec6d2e59-f149-4fcb-aed1-57b206b8109f" />
-160
-
 
  
 📊 统计中心
@@ -38,11 +36,10 @@
 - 成就图鉴：解锁打卡、记录类专属成就，激励长期使用
 - 盲盒收藏：收集寻宝获得的专属藏品，丰富使用乐趣
 
-<img width="160" height="342" alt="d8e1887c13a594b1beb9d657f01ee8ee" src="https://github.com/user-attachments/assets/5569b516-6ca2-4dc5-8ec3-e81af1785c51" /><img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/dd143212-aa48-4229-96bf-4cc08dbd040c" /><img width="160" height="342" alt="2a31fe70257fbffa6224ad0d69321efd" src="https://github.com/user-attachments/assets/d6ed0a79-be8b-4cf3-8921-6360e1fdc6ed" />
+<img width="160" height="342" alt="d8e1887c13a594b1beb9d657f01ee8ee" src="https://github.com/user-attachments/assets/5569b516-6ca2-4dc5-8ec3-e81af1785c51" /><img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/dd143212-aa48-4229-96bf-4cc08dbd040c" /><img width="160" height="342" alt="2a31fe70257fbffa6224ad0d69321efd" src="https://github.com/user-attachments/assets/d6ed0a79-be8b-4cf3-8921-6360e1fdc6ed" /><img width="160" height="342" alt="183363d8835132efbf1c85d75f39c02e" src="https://github.com/user-attachments/assets/116df13c-883a-48a5-97b6-ee66b39fba40" />
 
 
 
- 
 🤖 AI助手
  
 - AI智能生成：根据提示词自动生成购物清单、学习计划、会议要点等结构化内容
@@ -50,12 +47,20 @@
 - 心情分析：解析历史心情数据，生成情绪趋势并给出个性化建议
 - 智能标签推荐：根据笔记内容自动匹配适配标签
 - 记忆寻宝：基于历史笔记开启寻宝玩法，获取星球碎片、盲盒抽奖机会
+
+<img width="160" height="342" alt="88e8ca60c2c7976e145001ba38c66518" src="https://github.com/user-attachments/assets/0b99fce7-b962-4bdc-8896-2cf45c8d078e" />
+
  
-🎮 记忆寻宝趣味玩法
+🎮 记忆寻宝趣味玩法/笔记星球
  
 - 结合个人笔记数据的轻量化互动小游戏
 - 寻宝可获取星球碎片、盲盒抽奖机会
 - 游戏数据同步至统计中心，形成完整成长体系
+-笔记星球里可根据笔记心情生成不同颜色碎块
+-笔记星球碎片点击即可进入对应笔记
+
+<img width="160" height="342" alt="1a31e32dd9c1b5ae51524a12ba37d8e3" src="https://github.com/user-attachments/assets/92bf5790-dd4d-4707-a21d-2844f93e767a" /><img width="160" height="342" alt="8409df1bb289a213bec0a28220b81d70" src="https://github.com/user-attachments/assets/d02ca912-e3b9-4afa-84da-b88effda3db3" />
+
  
 🛠️ 技术栈
  
