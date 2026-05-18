@@ -13,7 +13,8 @@
 - 快捷心情记录入口，一键记录当下情绪
 - 最近笔记预览，快速查看历史记录内容
 
- <div align="center">< img width="450" src="https://github.com/user-attachments/assets/7dc218c4-d9b4-4d27-89e3-47b19d4aa460"> < img width="450" src="https://github.com/user-attachments/assets/cc0046d7-34d2-4a25-88cb-8d492513e513"></div>
+<img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/e438bb84-3f4b-49a2-b37f-719687466df8" /><img width="160" height="342" alt="c911656c104782e62d3202384b62ea11" src="https://github.com/user-attachments/assets/1bed0330-77e9-4f75-92a5-a497db0ccf57" />
+
 
 📓 新建笔记
  
@@ -23,8 +24,8 @@
 - 时间胶囊专属功能，支持笔记定时封存
 - 自定义标签分类管理，可自主添加标签，实现笔记精细化整理
 
-<img width="483" height="1032" alt="image" src="https://github.com/user-attachments/assets/356c5dc2-caa8-4d26-a6f9-d1a2f03e8400" /><img width="474" height="1025" alt="image" src="https://github.com/user-attachments/assets/ec6d2e59-f149-4fcb-aed1-57b206b8109f" />
-
+<img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/356c5dc2-caa8-4d26-a6f9-d1a2f03e8400" /><img width="" height="342" alt="image" src="https://github.com/user-attachments/assets/ec6d2e59-f149-4fcb-aed1-57b206b8109f" />
+160
 
 
  
