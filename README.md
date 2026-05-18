@@ -37,6 +37,11 @@
 - 情绪可视化图表：生成心情分布柱状图、心情占比分析图，直观复盘情绪变化
 - 成就图鉴：解锁打卡、记录类专属成就，激励长期使用
 - 盲盒收藏：收集寻宝获得的专属藏品，丰富使用乐趣
+
+<img width="160" height="342" alt="d8e1887c13a594b1beb9d657f01ee8ee" src="https://github.com/user-attachments/assets/5569b516-6ca2-4dc5-8ec3-e81af1785c51" /><img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/dd143212-aa48-4229-96bf-4cc08dbd040c" /><img width="160" height="342" alt="2a31fe70257fbffa6224ad0d69321efd" src="https://github.com/user-attachments/assets/d6ed0a79-be8b-4cf3-8921-6360e1fdc6ed" />
+
+
+
  
 🤖 AI助手
  
