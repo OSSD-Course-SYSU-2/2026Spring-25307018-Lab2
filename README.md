@@ -56,8 +56,8 @@
 - 结合个人笔记数据的轻量化互动小游戏
 - 寻宝可获取星球碎片、盲盒抽奖机会
 - 游戏数据同步至统计中心，形成完整成长体系
--笔记星球里可根据笔记心情生成不同颜色碎块
--笔记星球碎片点击即可进入对应笔记
+- 笔记星球里可根据笔记心情生成不同颜色碎块
+- 笔记星球碎片点击即可进入对应笔记
 
 <img width="160" height="342" alt="1a31e32dd9c1b5ae51524a12ba37d8e3" src="https://github.com/user-attachments/assets/92bf5790-dd4d-4707-a21d-2844f93e767a" /><img width="160" height="342" alt="8409df1bb289a213bec0a28220b81d70" src="https://github.com/user-attachments/assets/d02ca912-e3b9-4afa-84da-b88effda3db3" /><img width="160" height="342" alt="image" src="https://github.com/user-attachments/assets/a501e61a-a830-4734-b9a6-5556d5d47033" /><img width="160" height="342" alt="屏幕截图 2026-05-18 233549" src="https://github.com/user-attachments/assets/b80738dc-6ed4-46d1-9ad2-d5796167fc50" />
 
